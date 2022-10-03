@@ -4,29 +4,28 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Rešenje za svaki problem!
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+    content: 'Naš cilj je da vam omogućimo platformu za deljenje znanja na kojoj možete
+      pronaći rešenje za svaki vaš problem, ma koliko specifičan bio! '
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
       link: contact/
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Grupni i pojedinačni časovi
+    content: "Naš savet je da se pridružite jednoj od grupa učenika koji dele slična
+      interesovanja, kako bi podelili troškove časova.\nUkoliko je vaš problem jako
+      specifičan i želite potpunu posvećenost profesora, zakažite čas 1 na 1! "
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
       link: contact/
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Rešavanje domaćih zadataka i blanketa
+    content: Ukoliko ste negde zapeli i treba vam pomoć pri rešavanju zadataka, potražite
+      pomoć na platformi. Možete i postaviti vaš zadatak na oglasnoj tabli i sigurno
+      ćete naći nekoga ko vam može pomoći.
     animation_in: left
     animation_out: right
     button:
